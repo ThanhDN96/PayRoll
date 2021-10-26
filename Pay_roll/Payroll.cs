@@ -17,7 +17,7 @@ namespace Pay_roll
         {
             InitializeComponent();
         }
-
+        // upload file
         private void btnnchoose_file_Click(object sender, EventArgs e)
         {
             OpenFileDialog choofdlog = new OpenFileDialog();
