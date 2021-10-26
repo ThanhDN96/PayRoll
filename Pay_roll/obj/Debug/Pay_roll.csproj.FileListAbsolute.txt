@@ -1,0 +1,11 @@
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\bin\Debug\Pay_roll.exe.config
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\bin\Debug\Pay_roll.exe
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\bin\Debug\Pay_roll.pdb
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.csproj.AssemblyReference.cache
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.Payroll.resources
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.Login.resources
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.Properties.Resources.resources
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.csproj.GenerateResource.cache
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.csproj.CoreCompileInputs.cache
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.exe
+E:\VMO_CODE\VMO_PayRoll\Pay_roll\obj\Debug\Pay_roll.pdb
